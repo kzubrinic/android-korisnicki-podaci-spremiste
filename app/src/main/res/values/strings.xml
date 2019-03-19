@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Korisnički podaci</string>
+    <string name="ime">Ime</string>
+    <string name="starost">Starost</string>
+    <string name="spremi">Spremi</string>
+    <string name="citaj">Čitaj</string>
+    <string name="brisi">Briši</string>
+</resources>
